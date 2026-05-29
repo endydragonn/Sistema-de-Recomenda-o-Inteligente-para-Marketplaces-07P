@@ -5,6 +5,8 @@ Esta pasta contém as bases de dados utilizadas para o treinamento e validação
 ## Origem dos Dados
 Os dados brutos (`olist_...`) foram extraídos do **Brazilian E-Commerce Public Dataset by Olist**, disponível publicamente no Kaggle. Eles representam transações reais de e-commerce brasileiro entre 2016 e 2018.
 
+Link da base de dados: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
+
 ## Descrição dos Arquivos Brutos
 * **`olist_orders_dataset.csv`**: Tabela mestre de pedidos (contém IDs de pedido e IDs de cliente).
 * **`olist_order_items_dataset.csv`**: Detalhes dos itens (liga o pedido ao produto específico).
