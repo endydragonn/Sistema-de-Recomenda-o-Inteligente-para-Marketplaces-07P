@@ -11,6 +11,8 @@ Este projeto foi desenvolvido como parte da disciplina de **Inteligência Artifi
 
 **Professor:** Prof. Dr. Ivan Carlos Alcântara de Oliveira
 
+Link do Video: https://www.youtube.com/watch?v=EyWtXnRS--8
+
 ---
 
 ## Descrição do Projeto
